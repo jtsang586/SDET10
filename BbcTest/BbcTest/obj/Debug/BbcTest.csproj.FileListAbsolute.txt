@@ -1,0 +1,12 @@
+/Users/Tech-A28/Projects/BbcTest/BbcTest/bin/Debug/BbcTest.dll
+/Users/Tech-A28/Projects/BbcTest/BbcTest/bin/Debug/BbcTest.pdb
+/Users/Tech-A28/Projects/BbcTest/BbcTest/bin/Debug/nunit.framework.dll
+/Users/Tech-A28/Projects/BbcTest/BbcTest/bin/Debug/WebDriver.dll
+/Users/Tech-A28/Projects/BbcTest/BbcTest/bin/Debug/WebDriver.Support.dll
+/Users/Tech-A28/Projects/BbcTest/BbcTest/bin/Debug/WebDriver.xml
+/Users/Tech-A28/Projects/BbcTest/BbcTest/bin/Debug/WebDriver.Support.xml
+/Users/Tech-A28/Projects/BbcTest/BbcTest/bin/Debug/nunit.framework.xml
+/Users/Tech-A28/Projects/BbcTest/BbcTest/obj/Debug/BbcTest.csprojResolveAssemblyReference.cache
+/Users/Tech-A28/Projects/BbcTest/BbcTest/obj/Debug/BbcTest.csproj.CoreCompileInputs.cache
+/Users/Tech-A28/Projects/BbcTest/BbcTest/obj/Debug/BbcTest.dll
+/Users/Tech-A28/Projects/BbcTest/BbcTest/obj/Debug/BbcTest.pdb

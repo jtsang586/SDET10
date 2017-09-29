@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "WithdrawAndDeposit";
+}
+
+<h3>@ViewData["Title"]</h3>
+<h2>
+    You have
+    @{
+        @ViewData["Data"]
+    }
+</h2>
+
+<form method="post" asp-action="Submit" >
+<p>Enter the transaction amount: </p>
+	<input type="text" name="monies" value="">
+<p>Choose the transaction type: </p>
+	<input type="radio" name="transactionType" value="Deposit">Deposit
+	<input type="radio" name="transactionType" value="Withdraw">Withdraw <br>
+	<input type="submit" value="Submit" />
+</form>
+
+
+

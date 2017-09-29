@@ -1,0 +1,8 @@
+/Users/Tech-A28/Projects/calc.tests/calc.tests/bin/Debug/calc.tests.dll
+/Users/Tech-A28/Projects/calc.tests/calc.tests/bin/Debug/calc.tests.pdb
+/Users/Tech-A28/Projects/calc.tests/calc.tests/bin/Debug/nunit.framework.dll
+/Users/Tech-A28/Projects/calc.tests/calc.tests/bin/Debug/nunit.framework.xml
+/Users/Tech-A28/Projects/calc.tests/calc.tests/obj/Debug/calc.tests.csprojResolveAssemblyReference.cache
+/Users/Tech-A28/Projects/calc.tests/calc.tests/obj/Debug/calc.tests.csproj.CoreCompileInputs.cache
+/Users/Tech-A28/Projects/calc.tests/calc.tests/obj/Debug/calc.tests.dll
+/Users/Tech-A28/Projects/calc.tests/calc.tests/obj/Debug/calc.tests.pdb

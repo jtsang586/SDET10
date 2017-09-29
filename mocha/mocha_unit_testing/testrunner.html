@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mocha Tests</title>
+    <link rel="stylesheet" href="node_modules/mocha/mocha.css">
+</head>
+<body>
+    <div id='mocha'></div>
+    
+    <!-- Include mocha and chai -->
+    <script type="text/javascript" src="node_modules/mocha/mocha.js"></script>
+    <script type="text/javascript" src="node_modules/chai/chai.js"></script>
+
+    <!-- run mocha code to set page up -->
+    <script>mocha.setup('bdd')</script>
+
+    <!-- load code you want to test -->
+    <script type="text/javascript" src="index.js"></script>
+
+    <!-- Include the test file -->
+    <script type="text/javascript" src="test/test_file.js"></script>
+
+    <script>
+        mocha.run()
+    </script>
+</body>
+</html>

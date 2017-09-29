@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{87C10068-65A7-49C1-B1EE-564FF84F25E4}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.BbcTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BbcTest/pages/BbcSignInPage.cs">
+    <Files>
+      <File FileName="BbcTest/BbcSignError.cs" Line="13" Column="57" />
+      <File FileName="BbcTest/pages/BbcHomepage.cs" Line="28" Column="10" />
+      <File FileName="BbcTest/pages/BbcSignInPage.cs" Line="13" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
